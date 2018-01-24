@@ -1,0 +1,5 @@
+INSERT INTO WALUTA (ID, NAZWA_WALUTY, KURS) VALUES
+  (1, 'PLN', 1.0000),
+  (2, 'EUR', 4.1723),
+  (3, 'GBP', 4.7304),
+  (4, 'USD', 3.4036);
